@@ -6,7 +6,7 @@
     <p>
     A 3D login page is an immersive and visually engaging web interface that incorporates three-dimensional design elements to enhance user interaction and create a unique login experience.<br/>
       <br/>
-      Built by: @kzm
+      Built by: @Yashveer8888
       <br/>
      </p>
   </div>
@@ -57,19 +57,3 @@ Feel free to fork this repo for your own purposes.
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
-
-### Installation
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/kzmfhm/3D-login-page.git
-   ```
-2. Copy path of index.html and open browser to view Project.Then vew 3D-Animation!
-
-<p align="right"><a href="#readme-top">back to top</a></p>
-
-### ⭐️Support
-
-Give a ⭐️ if this project helped you!
-
-<p align="right"><a href="#readme-top">back to top</a></p>
