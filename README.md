@@ -20,7 +20,6 @@
           <li><a href="#description">Description</a></li>
           <li><a href="#getting-started">Getting Started</a></li>
           <li><a href="#installation">Installation</a></li>
-          <li><a href="#Support">Support</a></li>
       </ul>
   </details>
   <!-- ABOUT THE PROJECT -->
