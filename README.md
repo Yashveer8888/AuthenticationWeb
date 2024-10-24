@@ -29,9 +29,9 @@
 
 ### Photos
 
-![My Project Screen Shot](./images/signup.png)
+![My Project Screen Shot](src/images/signup.png)
 
-![My Project Screen Shot](./images/3D-login.png)
+![My Project Screen Shot](src/images/3D-login.png)
 
   <p align="right"><a href="#readme-top">back to top</a></p>
   
